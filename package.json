@@ -1,0 +1,1 @@
+{"name":"hybrid-substation-window","version":"0.1.0","private":true,"type":"module","scripts":{"test":"node --test","start":"node src/server.js"},"engines":{"node":">=20"},"description":"风光共享升压站检修窗口服务"}
