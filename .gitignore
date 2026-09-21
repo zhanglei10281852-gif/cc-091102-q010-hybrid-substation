@@ -1,6 +1,8 @@
 .env
 *.key
 *.pem
+var/
+*.journal
 node_modules/
 .venv/
 venv/
